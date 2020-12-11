@@ -4,7 +4,6 @@ import { BrowserRouter as Router, Route } from "react-router-dom";
 
 import Join from "./components/Join";
 import Chat from "./components/Chat";
-import Third from "./components/Third";
 
 const App = () => (
   <Router>
